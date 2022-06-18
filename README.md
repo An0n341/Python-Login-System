@@ -24,4 +24,6 @@ $ pip install mysql-connector-python
 ```sh
 $ python main.py
 ```
+## Demo
 
+![demo login system](files/login-py-demo.gif)
